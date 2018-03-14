@@ -3,7 +3,7 @@ class Config(object):
 	CSV_DIR = 'CSV'
 
 	CSV_HEADER_CBA = {
-		'BANKDATE': 'Bank Date',
+		'BANKDATE': 'BankDate',
 		'AMOUNT': 'Amount',
 		'DESCRIPTION': 'Description',
 		'BALANCE': 'Balance'
